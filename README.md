@@ -6,13 +6,13 @@ See my completed implementation and report [here](https://github.com/robertyoung
 
 ## Project Brief
 
-A wholesale distributor recently tested a change to their delivery method for some customers, by moving from a morning delivery service five days a week to a cheaper evening delivery service three days a week.Initial testing did not discover any significant unsatisfactory results, so they implemented the cheaper option for all customers. Almost immediately, the distributor began getting complaints about the delivery service change and customers were canceling deliveries — losing the distributor more money than what was being saved. You’ve been hired by the wholesale distributor to find what types of customers they have to help them make better, more informed business decisions in the future. Your task is to use unsupervised learning techniques to see if any similarities exist between customers, and how to best segment customers into distinct categories.
+In this project, you will apply supervised learning techniques and an analytical mind on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. You will first explore the data to learn how the census data is recorded. Next, you will apply a series of transformations and preprocessing techniques to manipulate the data into a workable format. You will then evaluate several supervised learners of your choice on the data, and consider which is best suited for the solution. Afterwards, you will optimize the model you've selected and present it as your solution to CharityML. Finally, you will explore the chosen model and its predictions under the hood, to see just how well it's performing when considering the data it's given.
 
 ## Project Evaluation
 
-My project was evaluated against the [Creating Customer Segments project rubric](https://github.com/robertyoung2/Finding-Donors-for-CharityML/blob/master/Creating%20Customer%20Segments%20project%20rubric.pdf). 
+My project was evaluated against the [Finding Donors for CharityML project rubric.](https://github.com/robertyoung2/Finding-Donors-for-CharityML/blob/master/Finding%20Donors%20for%20CharityML%20project%20rubric.pdf). 
 
 ## Files Submitted 
 
-- The customer_segments.ipynb notebook file with all questions answered and all code cells executed and displaying output.
-- An HTML export of the project notebook with the name report.html. This file must be present for your project to be evaluated.
+- The `finding_donors.ipynb` notebook file with all questions answered and all code cells executed and displaying output.
+- An HTML export of the project notebook with the name `report.html`. This file must be present for your project to be evaluated.
